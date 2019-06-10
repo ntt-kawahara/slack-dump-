@@ -39,3 +39,4 @@ $ slack-dump -t=YOURSLACKAPITOKENISHERE
 ```
 $ slack-dump -t=YOURSLACKAPITOKENISHERE channel-name-here privategroup-name-here another-privategroup-name-here
 ```
+# slack-dump-
